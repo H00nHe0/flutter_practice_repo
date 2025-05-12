@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cf_yube
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_practice_repo
+Each step I take builds the staircase to my destination.
+>>>>>>> c73de72e4595039a6001e552643ea5825b99bf3b
